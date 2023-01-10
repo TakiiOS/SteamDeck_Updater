@@ -1,1 +1,1 @@
-https://gmservicesplus.fr/WinDecker.exe
+https://github.com/TakiiOS/SteamDeck_Updater/blob/master/WinDecker.exe
