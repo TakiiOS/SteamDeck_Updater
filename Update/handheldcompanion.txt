@@ -1,0 +1,1 @@
+https://github.com/Valkirie/HandheldCompanion/releases/download/0.14.0.9/Handheld.Companion-Release-net7.0-0.14.0.9-offline.exe
