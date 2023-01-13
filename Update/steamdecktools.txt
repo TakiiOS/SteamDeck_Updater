@@ -1,0 +1,1 @@
+https://github.com/ayufan/steam-deck-tools/releases/download/0.5.49/SteamDeckTools-0.5.49-setup.exe
