@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/TakiiOS/SteamDeck_Updater/master/WinDecker.zip
+https://raw.githubusercontent.com/TakiiOS/Updater/main/WinDecker.zip
