@@ -1,1 +1,1 @@
-dism /capture-image /imagefile:E:\install.wim /capturedir:D:\ /ScratchDir:E:\Scratch /name:"WindeckOs2" /compress:maximum /checkintegrity /verify /bootable /Description:"WindeckOS2"
+dism.exe /Capture-Image /ImageFile:"D:\install.wim" /CaptureDir:C:\ /Name:"WindeckOS" /Description:"WindeckOS"
